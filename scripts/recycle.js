@@ -5,9 +5,6 @@ const recyclingCenters = [
     { name: "Africa Zero Waste Recycling Partners", location: "Jos, Nigeria" }
     { name: "Recycle Waste Plant", location: "Bauchi Nigeria" }
      { name: "Kano Waste Management", location: "Kano Nigeria" }
-];
-];
-];
 
 // User Authentication (Mock Implementation)
 function login() {

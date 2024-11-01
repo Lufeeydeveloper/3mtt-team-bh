@@ -1,8 +1,12 @@
 // Sample data for recycling centers
 const recyclingCenters = [
     { name: "LAWMA", location: "Lagos" },
-    { name: "Eco Waste Solutions", location: "Abuja" },
-    { name: "Recycle Waste Plant", location: "Bauchi" }
+    { name: "Eco Barter.Africa", location: "Abuja Nigeria", website: "www.ecobarter.africa" },
+    { name: "Africa Zero Waste Recycling Partners", location: "Jos, Nigeria" }
+    { name: "Recycle Waste Plant", location: "Bauchi Nigeria" }
+     { name: "Kano Waste Management", location: "Kano Nigeria" }
+];
+];
 ];
 
 // User Authentication (Mock Implementation)

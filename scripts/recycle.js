@@ -1,10 +1,10 @@
+/
 // Sample data for recycling centers
 const recyclingCenters = [
-    { name: "LAWMA", location: "Lagos" },
-    { name: "Eco Barter.Africa", location: "Abuja Nigeria", website: "www.ecobarter.africa" },
-    { name: "Africa Zero Waste Recycling Partners", location: "Jos, Nigeria" }
-    { name: "Recycle Waste Plant", location: "Bauchi Nigeria" }
-     { name: "Kano Waste Management", location: "Kano Nigeria" }
+    { name: "Green Earth Recycling", location: "Lagos" },
+    { name: "Eco Waste Solutions", location: "Abuja" },
+    { name: "Sustainable Recyclers", location: "Kano" }
+];
 
 // User Authentication (Mock Implementation)
 function login() {
@@ -20,7 +20,7 @@ function login() {
 }
 
 function register() {
-    alert("Registration Successful!");
+    alert("Registration successful!");
 }
 
 // Waste Pickup Scheduling

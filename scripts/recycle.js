@@ -1,4 +1,4 @@
-/
+
 // Sample data for recycling centers
 const recyclingCenters = [
     { name: "Green Earth Recycling", location: "Lagos" },
